@@ -1,6 +1,6 @@
 {
   "name": "serialijse",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "serialize and deserialize your javascript objects, preserve your object model ",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/erossignon/serialijse.git"
+    "url": "https://github.com/tmaly1980/serialijse.git"
   },
   "testling": {
     "harness": "mocha-bdd",
